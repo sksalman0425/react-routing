@@ -7,7 +7,7 @@ import {
   useParams,
   useLocation
 } from "react-router-dom";
-
+//you can use MemoryRouter for react native and testing purposes
 export default function App() {
   return (
     <Router>
