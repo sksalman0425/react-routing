@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
 import {BrowserRouter as Router,  Routes, Route, Link } from 'react-router-dom';
+//To run this code rename file name App.js and change component name App. 
 //import {MemoryRouter as Router,  Routes, Route, Link } from 'react-router-dom';
 
 // when we use MemoryRouter as Router, then it keeps the URL changes in memory instead of browser.
