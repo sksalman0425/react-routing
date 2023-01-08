@@ -8,8 +8,8 @@ import {
 //here we are not using router,routes, route component. 
 //router,routes, route component are automatically formed by RouterProvider internally when we provide router object to it.
 // after running this code write url => http://localhost:3000/ for home page 
-// and http://localhost:3000/about for about us page and http://localhost:3000/contact 
-//for contact us page bz link is not created on web page.
+// and http://localhost:3000/about for about us page and http://localhost:3000/contact for contact us page 
+// bz link is not created on web page.
 const router = createBrowserRouter([
   {
     path: "/",
